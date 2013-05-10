@@ -1,0 +1,6 @@
+sigla;designacao;num_horas_semanais_T;num_horas_semanais_P;sigla_prof_aula_T;sigla_prof_aulas_P;...;sigla_prof_aulas_P
+MAT;MATEMATICA;2;6;RRP;JLS;SVS;AMG
+FIS;FISICA;2;6;PSR;FFS;FAN;DET;DMR
+ALG;ALGORITMIA;1;4;PAA;CDP;ACS
+POO;PROGRAMACAO ORIENTADA POR OBJETOS;1;4;SMS;CDP;ACS;CCO;JJS
+ING;INGLES;2;2;MMP;PMP;MMP

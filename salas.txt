@@ -1,0 +1,12 @@
+﻿codigo;tipo_de_sala(anfiteatro ou laboratorio);capacidade(nº de alunos)
+B201;anfiteatro;50
+B203;anfiteatro;40
+B205;laboratorio;20
+B210;laboratorio;20
+B301;anfiteatro;60
+B303;anfiteatro;40
+B305;laboratorio;20
+B310;laboratorio;20
+B315;laboratorio;15
+B401;anfiteatro;50
+B403;anfiteatro;40
